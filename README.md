@@ -1,4 +1,4 @@
 Qui-est-ce-Game
 ===============
 
-Qui-est-ce Game - Scheme 
+Qui-est-ce / Who-is-it Game - Scheme 
